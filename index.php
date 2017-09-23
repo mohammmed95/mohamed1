@@ -45,7 +45,6 @@
         ]
         ?>
 
-  
         <?php foreach ($tasks as $item): ?>
 
                     <?php echo $item['name'] . ":" . $item['age'] . "<br>"; ?>
